@@ -1,0 +1,8 @@
+{
+  "itemGroup.relicmod": "Relic Mod",
+  "item.relicmod.guardian_heart": "Guardian's Heart",
+  "item.relicmod.guardian_heart.tooltip1": "§7Right-click: Regeneration II + Absorption II (30s cooldown)",
+  "item.relicmod.guardian_heart.tooltip2": "§7Hold in off-hand: Resistance I",
+  "item.relicmod.ancient_guardian_spawn_egg": "Ancient Guardian Spawn Egg",
+  "entity.relicmod.ancient_guardian": "Ancient Guardian"
+}

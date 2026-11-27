@@ -1,0 +1,8 @@
+{
+  "itemGroup.relicmod": "유물 모드",
+  "item.relicmod.guardian_heart": "수호자의 심장",
+  "item.relicmod.guardian_heart.tooltip1": "§7우클릭: 재생 II + 흡수 II (쿨타임 30초)",
+  "item.relicmod.guardian_heart.tooltip2": "§7보조 손에 들면: 저항 I",
+  "item.relicmod.ancient_guardian_spawn_egg": "고대 수호자 스폰 알",
+  "entity.relicmod.ancient_guardian": "고대 수호자"
+}
